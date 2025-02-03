@@ -2,10 +2,14 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Poppins", serif;
 }
 
 body{
   min-height: 100vh;
   width: 100vw;
   background: linear-gradient(180deg, #363467 0%, #3e35687c 100%);
+}
+header{
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 }
